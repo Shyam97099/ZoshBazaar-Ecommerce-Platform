@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Zosh Bazzar Application
 
-A full-stack **Ecommerce Multivendor Application** built with **Spring Boot**, enabling multiple vendors to manage products while users can browse, purchase, and manage their orders seamlessly.
+A full-stack **Ecommerce Zosh Bazzar Application** built with **Spring Boot**, enabling multiple vendors to manage products while users can browse, purchase, and manage their orders seamlessly.
 
 ---
 
