@@ -1,6 +1,6 @@
-# 🛒 Ecommerce Zosh Bazzar Application
+# 🛒 Zosh Bazzaar Ecommerce Application
 
-A full-stack **Ecommerce Zosh Bazzar Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
+A full-stack **Zosh Bazzar Ecommerce Application** built with **Spring Boot**, enabling multiple sellers to manage products while users can browse, purchase, and manage their orders seamlessly.
 
 ---
 
