@@ -341,4 +341,4 @@ Use **Postman** to test the REST APIs.
 
 ## ⭐ Support
 
-If you find this project helpful, please give it a ⭐ on [GitHub](https://github.com/Shyam97099/ZoshBazzar)!
+If you find this project helpful, please give it a ⭐ on [GitHub](https://github.com/Shyam97099)!
