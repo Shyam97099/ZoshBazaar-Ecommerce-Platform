@@ -334,7 +334,7 @@ Use **Postman** to test the REST APIs.
 
 **Shyam Kumar Sharma**
 - 🔗 LinkedIn: [linkedin.com/in/shyamkumar97](https://linkedin.com/in/shyamkumar97)
-- 💻 GitHub: [github.com/Shyam97099](https://github.com/Shyam97099)
+- 💻 GitHub: [github.com/Shyam97099](https://github.com/Shyam97099/ZoshBazaar-Ecommerce-Platform)
 - 📧 shyamkumarsharma069@gmail.com
 
 ---
